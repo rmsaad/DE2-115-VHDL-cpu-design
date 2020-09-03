@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\lab6\simulation\qsim
+vCPU_TEST_Sim
+Z1 I@9j:oP[id`PJifaHGMH1Q1
+Z2 VD4Xfl_9czkNN5Jl]^TkD92
+Z3 dC:\altera\13.0sp1\lab6\simulation\qsim
+Z4 w1554301034
+Z5 8lab6.vo
+Z6 Flab6.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|lab6.vo|
+Z9 o-work work -O0
+Z10 n@c@p@u_@t@e@s@t_@sim
+!i10b 1
+Z11 !s100 QHd3_j>FUj;;7fk0ODbC42
+!s85 0
+Z12 !s108 1554301035.114000
+Z13 !s107 lab6.vo|
+!s101 -O0
+vCPU_TEST_Sim_vlg_check_tst
+!i10b 1
+Z14 !s100 ;VBQ2EDVG3XjUfE8LcUG^1
+Z15 I3TB[gS^M_@chB7X7`>K^H1
+Z16 VAN8OL5PC]SYlnbFkPekba3
+R3
+Z17 w1554301032
+Z18 8lab6.vt
+Z19 Flab6.vt
+L0 61
+R7
+r1
+!s85 0
+31
+Z20 !s108 1554301035.515000
+Z21 !s107 lab6.vt|
+Z22 !s90 -work|work|lab6.vt|
+!s101 -O0
+R9
+Z23 n@c@p@u_@t@e@s@t_@sim_vlg_check_tst
+vCPU_TEST_Sim_vlg_sample_tst
+!i10b 1
+Z24 !s100 DJ3X31^]WO7FFXn4h^mWC3
+Z25 Iok^]mQD=9:5iaHzQSf31m1
+Z26 V8I[2ieW7H@BD=24IJ7VZ<3
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@c@p@u_@t@e@s@t_@sim_vlg_sample_tst
+vCPU_TEST_Sim_vlg_vec_tst
+!i10b 1
+!s100 8aA:RGo]7D89lMoGfmZio2
+IG3AH=U1Fhlgizal4`KZQ42
+Z28 VjbJ[P:gO<7[a^MA>VFC3^0
+R3
+R17
+R18
+R19
+L0 3946
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z29 n@c@p@u_@t@e@s@t_@sim_vlg_vec_tst
+vreset_circuit
+Z30 !s100 `P0FPo?40lR_0=_0`d;UJ0
+Z31 IM6VjTcBNz49Ve4?FIUe2S2
+Z32 VX6PUg_Pk=f7R=Q<O4cblS1
+R3
+Z33 w1554299838
+R5
+R6
+L0 31
+R7
+r1
+31
+R8
+R9
+Z34 !s108 1554299839.185000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_circuit_vlg_check_tst
+Z35 !s100 [PPIeh^C[eR80P_cMo5Mj1
+Z36 IYd[D2o=M8O=zPY>dj^jzS1
+Z37 VZb6@KVdelz<WBKjZPdQY21
+R3
+Z38 w1554299837
+R18
+R19
+L0 59
+R7
+r1
+31
+Z39 !s108 1554299839.279000
+Z40 !s107 lab6.vt|
+R22
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_circuit_vlg_sample_tst
+Z41 !s100 VidnoGG@FUMd_AADI4_fG3
+Z42 I`BRzlfnFd:C4L5hZ?E?gi2
+Z43 VchRe=FW_oUGW3cVWBH<T[2
+R3
+R38
+R18
+R19
+L0 29
+R7
+r1
+31
+R39
+R40
+R22
+R9
+!i10b 1
+!s85 0
+!s101 -O0
+vreset_circuit_vlg_vec_tst
+Z44 !s100 f[jHcZkJFP7icHbz=6=K@0
+Z45 IdZE`D?a5j4n20hl]2n8zz3
+Z46 VcKo;kHI`I@LOVUL?n3kh]1
+R3
+R38
+R18
+R19
+Z47 L0 181
+R7
+r1
+31
+R39
+R40
+R22
+R9
+!i10b 1
+!s85 0
+!s101 -O0
